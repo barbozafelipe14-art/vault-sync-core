@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "schema_version": "2.0",
+    "created_at": "2026-06-14T00:00:00Z",
+    "last_updated_at": "2026-06-14T00:00:00Z",
+    "revision": 1,
+    "checksum": ""
+  },
+
+  "state": {
+    "active_project": "Lightning Mode System",
+    "current_goal": "Implement distributed sync protocol v2.0",
+    "priority_focus": "Shared memory across AI platforms",
+    "last_decision": "Repository selected as canonical source",
+    "next_actions": [],
+    "open_questions": [],
+    "project_status": "Foundation Setup"
+  },
+
+  "merge_queue": [],
+
+  "sessions": []
+}
