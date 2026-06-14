@@ -1,0 +1,12 @@
+{
+  "name": "Distributed Sync Protocol",
+  "version": "2.0",
+
+  "rules": {
+    "append_only_sessions": true,
+    "conflict_detection": true,
+    "revision_tracking": true,
+    "snapshot_support": true,
+    "rollback_support": true
+  }
+}
