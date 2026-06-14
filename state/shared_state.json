@@ -2,8 +2,8 @@
   "meta": {
     "schema_version": "2.0",
     "created_at": "2026-06-14T00:00:00Z",
-    "last_updated_at": "2026-06-14T00:00:00Z",
-    "revision": 1,
+    "last_updated_at": "2026-06-14T22:06:30Z",
+    "revision": 2,
     "checksum": ""
   },
 
@@ -19,5 +19,27 @@
 
   "merge_queue": [],
 
-  "sessions": []
+  "sessions": [
+    {
+      "id": "session-001",
+      "version": 1,
+      "platform": "ChatGPT",
+      "started_at": "2026-06-14T18:00:00Z",
+      "ended_at": "2026-06-14T18:10:00Z",
+      "events": [
+        {
+          "type": "milestone",
+          "timestamp": "2026-06-14T18:10:00Z",
+          "author": "Felipe",
+          "summary": "Repository operational",
+          "details": "Successfully deployed shared JSON state and verified public raw access through GitHub raw endpoint.",
+          "tags": [
+            "setup",
+            "milestone",
+            "sync"
+          ]
+        }
+      ]
+    }
+  ]
 }
